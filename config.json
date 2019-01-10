@@ -1,0 +1,17 @@
+{
+    "database": {
+        "driver": "mysql",
+        "username": "root",
+        "password": "ganggadsa",
+        "host": "localhost",
+        "port": "3306",
+        "database": "etest_api"
+    },
+    "migration": {
+        "driver": "file",
+        "folder": "migrations"
+    },
+    "domain": {
+        "host":"dyned.sirl.me"
+    }
+}
